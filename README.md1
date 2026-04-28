@@ -1,0 +1,49 @@
+# Student Result System
+
+A simple Python-based application to calculate student marks, percentage, and grade.
+
+##  Features
+
+*  Enter student name
+*  Input marks for multiple subjects
+*  Calculate total marks
+*  Calculate percentage
+* Generate grade automatically
+
+---
+
+##  Tech Stack
+
+* Python
+
+---
+## Project Structure
+
+```
+student-result-system/
+│── result.py
+```
+
+---
+
+##  How to Run
+
+1. Install Python
+2. Run:
+
+```
+python result.py
+```
+##  Connect With Me
+
+*  GitHub: https://github.com/reinachaturvedi09-lgtm
+
+
+---
+
+##  Author
+
+Reina Chaturvedi
+
+---
+
